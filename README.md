@@ -4,7 +4,7 @@
 
 Group Memebers: Miguel Romero, Louise Lai, Jenny Kong.
 
-Final project for the MSDS621 and extension of ULMFiT for text tagging:
+Final project for MSDS621 and extension of ULMFiT for text tagging:
 
 The files/folder contained in this repo are:
 
