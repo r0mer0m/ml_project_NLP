@@ -2,6 +2,8 @@
 
 ## Group Name: Destiny's child
 
+Group Memebers: Miguel Romero, Louise Lai, Jenny Kong.
+
 Final project for the MSDS621 and extension of ULMFiT for text tagging:
 
 The files/folder contained in this repo are:
