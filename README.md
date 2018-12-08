@@ -11,3 +11,7 @@ The files/folder contained in this repo are:
 
 * `fastai/ directory`: Contains the modified verion `1.0.31` of the fastai library to inlcude text tagging.
 * `ULMFiT_approach`: A notebook with an execution of the Labeler (on working results) and some of the functions integrated in the library.
+* `Data_preprocessing_visualization_new.ipynb`: A notebook with Data preprocessing, visualization for the presentation
+* `backup_plan_final_project_checkin_template.ipynb`: first machine learning model fitting
+* `baseline_optimization_j.ipynb`: A notebook with grid search and pipeline to tune the machine learning algorithms
+
