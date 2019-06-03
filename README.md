@@ -15,6 +15,10 @@ The files/folder contained in this repo are:
 
 The extension of the approach proposed in ULMiT to this task is still an ongoing project. While a working version has been constructed the models results still need to be improved.
 
+## Major issues
+
+While developing the application of ULMFit to text tagging we realized a major issue of using pre-defined models for that task. This is, the tokenization of the up-stream task, which generally is used for several down-stream tasks,  needs to match the one that was provided in the down-stream taks for the text to match the labels.
+
 ## Authors
 
 Miguel Romero, Louise Lai, Jenny Kong.
